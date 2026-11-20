@@ -1,0 +1,7 @@
+streamlit
+openai
+pypdf
+langchain-text-splitters
+numpy
+faiss-cpu
+python-dotenv
